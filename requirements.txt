@@ -2,7 +2,7 @@ fastapi==0.115.2
 uvicorn==0.30.6
 python-multipart==0.0.9
 peewee==3.17.6
-psycopg2-binary==2.9.9
+psycopg2-binary==2.9.6  
 passlib[bcrypt]==1.7.4
 PyJWT==2.9.0
 python-dotenv==1.0.1
